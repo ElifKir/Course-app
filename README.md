@@ -3,6 +3,7 @@ Course app with JS
 
 
 How to use?
+
 As desired, the course title, instructor and the file name of the photo are entered and the save button is clicked.
 
 Then the entered information and the photo appear on the screen. 
